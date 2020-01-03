@@ -1,2 +1,0 @@
-Star DB Application
------
